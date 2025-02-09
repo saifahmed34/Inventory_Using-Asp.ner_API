@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saifa\\source\\repos\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\models\\itemmdls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\models\\itemmdls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\data\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\data\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saifa\\source\\repos\\api\\api\\Migrations\\20250206130213_ItemsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\Migrations\\20250206130213_ItemsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\migrations\\20250204173611_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\migrations\\20250204173611_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|c:\\users\\saifa\\source\\repos\\api\\api\\migrations\\20250206132427_itemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F74D11-5A86-4E55-AD12-F7197D7BE277}|api\\api.csproj|solutionrelative:api\\migrations\\20250206132427_itemstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "api\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:06:22.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Data\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "api\\Data\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Data\\Models\\Item.cs",
+              "RelativeToolTip": "api\\Data\\Models\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:53:53.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "api\\Data\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Data\\Models\\Category.cs",
+              "RelativeToolTip": "api\\Data\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:25:56.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:32:49.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T17:27:59.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "itemmdls.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Models\\itemmdls.cs",
+              "RelativeDocumentMoniker": "api\\Models\\itemmdls.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Models\\itemmdls.cs",
+              "RelativeToolTip": "api\\Models\\itemmdls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:34:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250206132427_ItemsTable.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Migrations\\20250206132427_ItemsTable.cs",
+              "RelativeDocumentMoniker": "api\\Migrations\\20250206132427_ItemsTable.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Migrations\\20250206132427_ItemsTable.cs",
+              "RelativeToolTip": "api\\Migrations\\20250206132427_ItemsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:24:27.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:26:45.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250206130213_ItemsTable.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Migrations\\20250206130213_ItemsTable.cs",
+              "RelativeDocumentMoniker": "api\\Migrations\\20250206130213_ItemsTable.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Migrations\\20250206130213_ItemsTable.cs",
+              "RelativeToolTip": "api\\Migrations\\20250206130213_ItemsTable.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:02:14.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0AAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:48:47.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250204173611_IntialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\saifa\\source\\repos\\api\\api\\Migrations\\20250204173611_IntialCreate.cs",
+              "RelativeDocumentMoniker": "api\\Migrations\\20250204173611_IntialCreate.cs",
+              "ToolTip": "C:\\Users\\saifa\\source\\repos\\api\\api\\Migrations\\20250204173611_IntialCreate.cs",
+              "RelativeToolTip": "api\\Migrations\\20250204173611_IntialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:36:11.181Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
